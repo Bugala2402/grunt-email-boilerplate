@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "healthy.io.ex1", "healthy.io.ex1\healthy.io.ex1.csproj", "{E85805CC-826B-461F-825F-5D0E5EC47751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fronted", "fronted\fronted.csproj", "{2A9575FC-2633-45D2-94BC-59FA60325DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E85805CC-826B-461F-825F-5D0E5EC47751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85805CC-826B-461F-825F-5D0E5EC47751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85805CC-826B-461F-825F-5D0E5EC47751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85805CC-826B-461F-825F-5D0E5EC47751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9575FC-2633-45D2-94BC-59FA60325DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9575FC-2633-45D2-94BC-59FA60325DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9575FC-2633-45D2-94BC-59FA60325DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9575FC-2633-45D2-94BC-59FA60325DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB96221A-8FDA-4D4F-8BA9-624AEB6460B6}
+	EndGlobalSection
+EndGlobal
